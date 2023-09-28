@@ -1,0 +1,35 @@
+header {
+background-color: aquamarine;
+text-align: center;
+padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav li {
+    margin-right: 20px;
+    display: inline;
+}
+
+nav a {
+    text-decoration: none;
+    color: peru;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: peru;
+    color: antiquewhite;
+    text-align:center;
+    padding: 10px;
+}
